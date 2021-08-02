@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: %Bundle-Name
+Bundle-SymbolicName: com.mounriver.welcome;singleton:=true
+Bundle-Version: 1.0.0.v20200609
+Bundle-Vendor: %Bundle-Vendor
+Automatic-Module-Name: org.eclipse.epp.package.cpp.welcome
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.ui.intro;bundle-version="3.5.300"
+Eclipse-BundleShape: dir
